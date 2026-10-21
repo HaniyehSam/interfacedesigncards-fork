@@ -202,7 +202,7 @@
 		<text>relationship to interface design? # relationship to other topics? # senses? # classification? # examples?</text>
 		<link>https://www.youtube.com/watch?v=XIpDLa585ao</link> <!-- The Gamer's Brain: How Neuroscience and UX Can Impact Design -->
 		<link>https://en.wikipedia.org/wiki/The_Humane_Interface</link>
-		<link>https://www.amazon.com/Designing-Mind-Understanding-Interface-Guidelines/dp/0124079148</link>
+		<link>https://www.goodreads.com/book/show/18847750-designing-with-the-mind-in-mind</link> <!-- Goodreads: Designing with the Mind in Mind (Jeff Johnson) -->
 		<link>https://en.wikipedia.org/wiki/Sense</link>
 		<link><![CDATA[https://csongorb.github.io/leveldesigncards/?card=visualperception&open=true]]></link>
 		<link><![CDATA[https://csongorb.github.io/leveldesigncards/?card=cognitivemodeling&open=true]]></link>
@@ -587,6 +587,33 @@
 		<text>related theories, methods, disciplines? # how does the interface work?</text>
 		<link>http://www.mobygames.com</link>
 		<link>https://www.kickstarter.com/projects/2093152267/the-metagame-discuss/posts/668406</link>
+	</card>
+
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="clairobscur">clair obscur:/expedition 33</title>
+		<text>how does the interface support reactive turn-based combat? # how are the timing cues for dodging and parrying shown? # how were the menus designed and redesigned? # why no mini-map, and what replaces it? # how much interface does immersion need? # related theories, methods, disciplines?</text>
+		<link>https://www.youtube.com/watch?v=NKlUwHPXaZ8</link> <!-- WTF'UX (in French): Designing the menus, with Sandfall's UI programmer -->
+		<link>https://www.tweaktown.com/news/104172/clair-obscur-expedition-33s-stripped-back-ui-puts-immersion-first/index.html</link> <!-- TweakTown: The stripped-back UI puts immersion first -->
+		<link>https://gamerant.com/clair-obscur-expedition-33-persona-5-influences-dev-commentary-ui/</link> <!-- Game Rant: What the director took from Persona 5 for the UI -->
+		<link>https://gamerant.com/clair-obscur-expedition-33-no-mini-map-ceo-explanation/</link> <!-- Game Rant: Why there is no mini-map -->
+		<link>https://blog.playstation.com/2024/07/29/clair-obscur-expedition-33-devs-discuss-classic-turn-based-rpg-inspiration-and-real-time-mechanics/</link> <!-- PlayStation Blog: Turn-based inspiration and real-time mechanics -->
+		<link>https://automaton-media.com/en/news/clair-obscur-expedition-33s-battle-system-was-designed-around-the-premise-of-no-frustrating-deaths-and-a-game-you-can-clear-with/</link> <!-- Automaton: A battle system designed around no frustrating deaths -->
+		<link>https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-devs-were-told-that-no-one-would-like-one-of-the-rpgs-best-systems-before-it-launched-lead-says-we-didnt-care/</link> <!-- GamesRadar: They were told no one would like the parry system -->
+		<link>https://www.vice.com/en/article/clair-obscur-expedition-33-has-phenomenal-turn-based-combat-but-we-cannot-make-it-the-new-standard-for-turn-based-rpgs/</link> <!-- Vice: Phenomenal combat, but not the new standard -->
+		<link>https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33</link> <!-- Wikipedia: Clair Obscur: Expedition 33 -->
+	</card>
+
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="outerwilds">outer wilds</title>
+		<text>how does the ship log turn knowledge into an interface? # which tools are part of the world (signalscope, translator, scout)? # how does the game work without quest markers? # related theories, methods, disciplines?</text>
+		<link>https://www.youtube.com/watch?v=LbY0mBXKKT0</link> <!-- Noclip: The Making of Outer Wilds -->
+		<link>https://www.youtube.com/watch?v=vGnce1Dp9BU</link> <!-- Full Indie: Alex Beachum, Designing for Curiosity in Outer Wilds -->
+		<link>https://www.youtube.com/watch?v=3bLTlyWgHAw</link> <!-- The Examined Game: The design decision that makes and breaks Outer Wilds -->
+		<link>https://www.gamedeveloper.com/design/outer-wilds-critical-analysis</link> <!-- Game Developer: Outer Wilds critical analysis -->
+		<link>https://media.gdcvault.com/GDC+2021/Andrew+Woodward_OuterWildsPoster.pdf</link> <!-- GDC 2021 poster: Truth in Simulation -->
+		<link>https://en.wikipedia.org/wiki/Outer_Wilds</link> <!-- Wikipedia: Outer Wilds -->
 	</card>
 
 </cards>

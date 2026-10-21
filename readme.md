@@ -27,6 +27,11 @@ Update the simulator: `git -C cardsimulator pull origin main`, then commit the c
 ### Release 1.1 (Work in Progress)
 
 - some links updated
+- repository is now content only (new card table from `cardsimulator`, `cards/cardset.xml`, GitHub Pages deploy workflow)
+- category "games" renamed to "case studies"
+- new color palette for the categories
+- new case studies: Clair Obscur: Expedition 33, Outer Wilds
+- book links point to the book's Wikipedia article (or its Goodreads page when there is none) instead of Amazon
 
 ### Release 1.0 (26. March 2021)
 
